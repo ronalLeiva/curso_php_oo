@@ -1,0 +1,4 @@
+28-04-2016- 06:18:03 ::: Error. Debe tener nombre 
+28-04-2016- 06:18:58 ::: Error. Debe tener nombre 
+28-04-2016- 06:21:41 ::: Error. Debe tener nombre. Error en el archivo /var/www/curso_php_oo/20_magic_contant.php, en la linea 18
+28-04-2016- 06:23:12 ::: Error. Debe tener nombre. Error en el archivo /var/www/curso_php_oo/20_magic_contant.php, en la linea 18, en la clase Dog, en el metodo myUtilities::sayMyName, en el trait myUtilities
